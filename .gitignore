@@ -1,0 +1,9 @@
+.DS_*
+._*
+./*/outputs/*
+./*/bin/*
+*.o
+*.out
+*.a
+*.tgz
+*.zip
