@@ -7,3 +7,5 @@
 *.a
 *.tgz
 *.zip
+
+*hidden*

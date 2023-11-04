@@ -1,0 +1,252 @@
+inputs/1000.case1.in
+The total CPU time: 0ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/1000.case2.in
+The total CPU time: 0ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/1000.case3.in
+The total CPU time: 1ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/2000.case1.in
+The total CPU time: 1.999ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/2000.case2.in
+The total CPU time: 1ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/2000.case3.in
+The total CPU time: 3ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/4000.case1.in
+The total CPU time: 5.999ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/4000.case2.in
+The total CPU time: 0ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/4000.case3.in
+The total CPU time: 12.998ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/8000.case1.in
+The total CPU time: 18.997ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/8000.case2.in
+The total CPU time: 0ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/8000.case3.in
+The total CPU time: 31.995ms
+memory: 12424KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/16000.case1.in
+The total CPU time: 64.991ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/16000.case2.in
+The total CPU time: 0ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/16000.case3.in
+The total CPU time: 129.981ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/32000.case1.in
+The total CPU time: 249.962ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/32000.case2.in
+The total CPU time: 0ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/32000.case3.in
+The total CPU time: 411.937ms
+memory: 12572KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/1000000.case1.in
+The total CPU time: 202164ms
+memory: 18592KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/1000000.case2.in
+The total CPU time: 2ms
+memory: 18592KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!
+inputs/1000000.case3.in
+The total CPU time: 405104ms
+memory: 18592KB
+--------------------------------------
+-                                    -
+-             Algorithm              -
+-            2019  Fall              -
+-         PA1 Result Checker         -
+-                                    -
+--------------------------------------
+
+Congratulations: Your result passed this test!

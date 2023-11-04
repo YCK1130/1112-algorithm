@@ -1,0 +1,27 @@
+cmd="$1"
+
+if [ "$cmd" != "IS" -a "$cmd" != "MS" -a "$cmd" != "QS" -a "$cmd" != "HS" ]; then
+    echo "Invalid command $cmd"
+    exit
+fi
+
+# DIR = "bin"
+
+DIROutput="outputs"
+DIRCheck="resultCheck"
+mkdir -p $DIROutput/$cmd
+mkdir -p $DIRCheck
+
+ulimit -s 262144
+for num in 4000 16000 32000 1000000
+do 
+    for caseNum in 3 2 1
+    do
+        inputFile="inputs/$num.case$caseNum.in"
+        outputFile="$DIROutput/$cmd/$num.case$caseNum.out"
+        # echo "$inputFile" >> $DIRCheck/"$cmd.txt"
+        ./bin/NTU_sort -$cmd $inputFile $outputFile 1>> $DIRCheck/"$cmd.txt"
+        # ./utility/PA1_Result_Checker $inputFile $outputFile 1>> $DIRCheck/"$cmd.txt"
+	echo "$inputFile done";
+    done
+done

@@ -1,0 +1,4 @@
+type the following command to run the code
+
+- make
+- ./bin/mps < input file > <output file >

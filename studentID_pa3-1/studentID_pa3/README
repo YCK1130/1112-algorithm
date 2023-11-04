@@ -1,0 +1,17 @@
+1. to complile the file, please type
+
+```sh
+make
+```
+
+2. to run
+
+```sh
+./bin/cb inputs/<input file name> outputs/<output file name>
+```
+
+3. check correctness
+
+```sh
+./pa3_checker inputs/<input file name> outputs/<output file name>
+```
